@@ -1,0 +1,62 @@
+@import '../scss/settings/_colors.scss';
+@import '../scss/settings/_fonts.scss';
+
+
+.HomeHeader {
+height: 100px;
+margin-right:50px;
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-end;
+}
+
+.HomeHeaderFirst {
+    display: flex;
+    justify-content: flex-end;
+    .link1 {
+        color: $color-grey;
+        font-family: $font-base;
+        font-size: 10px;
+        text-align: right;
+        text-decoration: none;
+        padding: 10px;
+        
+    }
+    .link2 {
+        color: $color-grey;
+        font-family: $font-base;
+         font-size: 10px;
+        text-align: right;
+        border: 0.75px solid $color-yellow;
+        text-decoration: none;
+        padding: 10px;
+    }
+}
+
+.HomeHeaderSecond {
+    display: flex;
+    justify-content: space-between;
+    .link3 {
+        color: $color-darkgrey;
+        font-family: $font-base;
+         font-size: 14px;
+        text-align: left;
+        border: 0.75px solid $color-darkgrey;
+        padding: 10px;
+        font-weight: bold;
+        margin-left: 10px;
+        text-decoration: none;
+        
+    }
+    .link4 {
+        color: $color-darkgrey;
+        font-family: $font-base;
+         font-size: 14px;
+        text-align: left;
+        padding: 10px;
+        font-weight: bold;
+        margin-left: 10px;
+    }
+}
+

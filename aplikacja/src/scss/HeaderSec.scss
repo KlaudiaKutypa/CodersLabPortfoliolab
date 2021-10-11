@@ -1,0 +1,62 @@
+.HeaderSec {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.HomePicture {
+    height: 100%;
+    width: 50%;
+    background-image: url(../assets/HeroImage.png);
+    background-size: cover;
+    
+
+}
+
+@import '../scss/settings/_colors.scss';
+@import '../scss/settings/_fonts.scss';
+
+.HomeHeaderThird {
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px; 
+}
+
+p {
+ color: $color-darkgrey;
+ font-family: $font-base;
+ font-size: 30px;
+ text-align: center;
+ letter-spacing: -0.76px;
+ font-weight: bold;
+}
+
+img {
+    margin-top:20px;
+}
+
+.HeaderButtons {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+        .button {
+        width: 200px;
+        height: 80px;
+        border: 0.75px solid $color-darkgrey;
+        background:none;
+        margin:10px;
+        font-weight: bold;
+        .link5 {
+            text-decoration: none;
+            color: $color-darkgrey;
+            font-family: $font-base;
+            font-size: 20px;
+            text-align: center;
+        }
+    }
+}
+

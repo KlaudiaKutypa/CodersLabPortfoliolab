@@ -1,0 +1,61 @@
+@import '../scss/settings/_colors.scss';
+@import '../scss/settings/_fonts.scss';
+
+.Register {
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.formRegister {
+    width: 300px;
+    background: $color-white;
+    padding: 30px;
+    color: $color-darkgrey;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    input {
+    
+        margin-bottom: 15px;
+        background-color: $color-white;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-color: $color-grey;
+    }
+    
+}
+ label {
+     margin: 5px;
+ }
+
+
+
+.buttons{
+    margin:20px;
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+}
+
+button {
+        color: $color-grey;
+        font-family: $font-base;
+         font-size: 15px;
+        text-decoration: none;
+        padding: 10px;
+        background-color: white;
+        border: 0.75px solid $color-grey;
+    
+}
+
+.link1 {
+    color: $color-grey;
+    font-family: $font-base;
+     font-size: 15px;
+    text-decoration: none;
+    padding: 10px;
+}

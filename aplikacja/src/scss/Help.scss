@@ -1,0 +1,100 @@
+@import '../scss/settings/_colors.scss';
+@import '../scss/settings/_fonts.scss';
+
+.Help {
+    height: 100vh;
+}
+
+.Help-first {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    p{
+        margin-top:20px;
+    }
+}
+
+.Help-second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    button {
+        width: 200px;
+        height: 80px;
+        border: 0.75px solid $color-darkgrey;
+        background:none;
+        margin:10px;
+        font-weight: bold;
+        text-decoration: none;
+        color: $color-darkgrey;
+        font-family: $font-base;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+
+.Help-third {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+        h4 {
+        width: 450px;
+        text-align: center;
+        font-family: $font-base;
+        color: $color-darkgrey;
+    }
+}
+
+.Help-fourth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Help-fourth-sec{
+    margin-top: 10px;
+    width:800px;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid $color-darkgrey;
+    h1{
+      font-size:20px;
+      color: $color-darkgrey;
+    }
+    h3{
+        text-align: end;
+        color: $color-darkgrey;
+        font-size:12px;
+    }
+    h2{
+        color: $color-darkgrey;
+        font-size:12px;
+        margin-bottom: 10px;
+    }
+}
+
+.pageul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+.pageli {
+    display: inline;
+    color: $color-darkgrey;
+    font-family: $font-base;
+    font-size: 10px;
+    text-decoration: none;
+}
+
+.page {
+    border:none;
+}
+
+button:focus {
+    border:1px solid $color-grey;
+}
+
