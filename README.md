@@ -1,3 +1,5 @@
+CodersLab PortfolioLab
+
 Projekt realizowany podczas kursu Colders Lab w ramach modułu Portfolio Lab. 
 
 Celem projektu było stworzenie miejsca, w którym każdy będzie mógł oddać niepotrzebne rzeczy zaufanym instytucjom.
