@@ -1,4 +1,4 @@
-CodersLab PortfolioLab
+# CodersLab PortfolioLab
 
 Projekt realizowany podczas kursu Colders Lab w ramach modułu Portfolio Lab. 
 
