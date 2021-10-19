@@ -70,11 +70,11 @@ function Contact() {
         <div className="Contact-picture">
             <img src={background}></img>
         </div>
-         <div className="Contact-form">
-        <div>
+        <div className="Contact-form">
+         <div>
              <p>Skontaktuj się z nami</p>
-            <img src={decoration}></img>
-        </div>
+             <img src={decoration}></img>
+         </div>
             <div className="successMessage">
             <h2>{infoMessage}</h2>
             </div>
