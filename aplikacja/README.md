@@ -1,3 +1,3 @@
-Projekt Portfoliolab - Coderslab
+Project Portfoliolab - Coderslab
 
-Projekt tworzony podpis modułu Portfoliolab na kursie Coderlab
+Project relized during module Portfoliolab on Coders Lab course.

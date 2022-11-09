@@ -10,7 +10,6 @@ import { HashRouter as Router, Route, Switch, Link as Link1 } from 'react-router
 function App() {
   return (
     <Router>
-      {/* <Home /> */}
         <Switch>
           <Route exact path="/">
             <HomeHeader />
