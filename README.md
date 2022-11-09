@@ -1,9 +1,10 @@
 # CodersLab PortfolioLab
 
-Projekt realizowany podczas kursu Colders Lab w ramach modułu Portfolio Lab. 
+Project relized during module Portfoliolab on Coders Lab course.
 
-Celem projektu było stworzenie miejsca, w którym każdy będzie mógł oddać niepotrzebne rzeczy zaufanym instytucjom.
-Wykorzystane technologie: Sass, React
+The goal of the project was to create a place where everyone can give unnecessary
+things to trusted institutions.
 
 
-Link do projektu: https://xd.adobe.com/spec/f11fc670-7af2-4502-4013-c1f66f8d3332-872e/
+Link to Github pages: https://klaudiakutypa.github.io/CodersLabReact/
+Link to Adobe XD: https://xd.adobe.com/spec/f11fc670-7af2-4502-4013-c1f66f8d3332-872e/
