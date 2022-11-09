@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CodersLabReact/static/css/main.b7719908.chunk.css",
+    "main.js": "/CodersLabReact/static/js/main.c7c886e1.chunk.js",
+    "main.js.map": "/CodersLabReact/static/js/main.c7c886e1.chunk.js.map",
+    "runtime-main.js": "/CodersLabReact/static/js/runtime-main.81ff8659.js",
+    "runtime-main.js.map": "/CodersLabReact/static/js/runtime-main.81ff8659.js.map",
+    "static/js/2.a3094cbd.chunk.js": "/CodersLabReact/static/js/2.a3094cbd.chunk.js",
+    "static/js/2.a3094cbd.chunk.js.map": "/CodersLabReact/static/js/2.a3094cbd.chunk.js.map",
+    "static/js/3.458fb083.chunk.js": "/CodersLabReact/static/js/3.458fb083.chunk.js",
+    "static/js/3.458fb083.chunk.js.map": "/CodersLabReact/static/js/3.458fb083.chunk.js.map",
+    "index.html": "/CodersLabReact/index.html",
+    "static/css/main.b7719908.chunk.css.map": "/CodersLabReact/static/css/main.b7719908.chunk.css.map",
+    "static/js/2.a3094cbd.chunk.js.LICENSE.txt": "/CodersLabReact/static/js/2.a3094cbd.chunk.js.LICENSE.txt",
+    "static/media/BackgroundImage.dd60cf41.png": "/CodersLabReact/static/media/BackgroundImage.dd60cf41.png",
+    "static/media/ThreeColumns.scss": "/CodersLabReact/static/media/ColumnsBackground.54dcd134.png",
+    "static/media/Decoration.1172adb4.svg": "/CodersLabReact/static/media/Decoration.1172adb4.svg",
+    "static/media/HeaderSec.scss": "/CodersLabReact/static/media/HeroImage.1bee5467.png",
+    "static/media/People.f5eee084.png": "/CodersLabReact/static/media/People.f5eee084.png",
+    "static/media/Signature.c2a96569.svg": "/CodersLabReact/static/media/Signature.c2a96569.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ff8659.js",
+    "static/js/2.a3094cbd.chunk.js",
+    "static/css/main.b7719908.chunk.css",
+    "static/js/main.c7c886e1.chunk.js"
+  ]
+}
