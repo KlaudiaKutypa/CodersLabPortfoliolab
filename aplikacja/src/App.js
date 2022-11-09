@@ -5,7 +5,7 @@ import Logging from './components/Logging';
 import HomeHeader from './components/HomeHeader';
 import Register from './components/Register';
 import Loggedout from './components/Loggedout';
-import { BrowserRouter as Router, Route, Switch, Link as Link1 } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch, Link as Link1 } from 'react-router-dom';
 
 function App() {
   return (
