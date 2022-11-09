@@ -10,19 +10,22 @@ import { BrowserRouter as Router, Route, Switch, Link as Link1 } from 'react-rou
 function App() {
   return (
     <Router>
-      <HomeHeader />
-      <Home />
+      {/* <Home /> */}
         <Switch>
           <Route exact path="/">
+            <HomeHeader />
             <Home />
           </Route>
           <Route path="/logowanie">
+            <HomeHeader />
             <Logging />
           </Route>
           <Route path="/rejestracja">
+            <HomeHeader />
             <Register />
           </Route>
           <Route path="/wylogowano">
+            <HomeHeader />
             <Loggedout />
           </Route>
         </Switch>
