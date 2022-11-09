@@ -5,9 +5,10 @@ import decoration from '../assets/Decoration.svg'
 import React, { useEffect, useState } from "react";
 export default Help;
 
-const APIorg = "http://localhost:3001/organizations";
-const APIfou = "http://localhost:3001/foundations";
-const APIloc = "http://localhost:3001/locals";
+const APIorg = "https://klaudiakutypa.github.io/CodersLabReact/db.json/organizations";
+const APIfou = "https://klaudiakutypa.github.io/CodersLabReact/db.json/foundations";
+const APIloc = "https://klaudiakutypa.github.io/CodersLabReact/db.json/locals";
+// const API = "http://localhost:3001/locals";
 
 function Help() {
    const [all, setAll] = useState([]);
