@@ -5,9 +5,9 @@ import decoration from '../assets/Decoration.svg'
 import React, { useEffect, useState } from "react";
 export default Help;
 
-const APIorg = "https://klaudiakutypa.github.io/CodersLabReact/db.json/organizations";
-const APIfou = "https://klaudiakutypa.github.io/CodersLabReact/db.json/foundations";
-const APIloc = "https://klaudiakutypa.github.io/CodersLabReact/db.json/locals";
+const APIorg = "https://my-json-server.typicode.com/KlaudiaKutypa/CodersLabReact/organizations";
+const APIfou = "https://my-json-server.typicode.com/KlaudiaKutypa/CodersLabReact/foundations";
+const APIloc = "https://my-json-server.typicode.com/KlaudiaKutypa/CodersLabReact/locals";
 // const API = "http://localhost:3001/locals";
 
 function Help() {
