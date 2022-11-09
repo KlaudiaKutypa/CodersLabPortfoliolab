@@ -15,7 +15,7 @@ function HomeHeader() {
                 <Link className="link2"to="/rejestracja">Załóż konto</Link>
             </div>
             <div className="HomeHeaderSecond">
-                <Link className="link3" to="HomeHeader">Start</Link>
+                <Link className="link3" to="App">Start</Link>
                 <Link2 className="link4" to="What" smooth={true} duration={1000}>O co chodzi?</Link2>
                 <Link2 className="link4" to="Aboutus" smooth={true} duration={1000}>O nas</Link2>
                 <Link2 className="link4" to="Help" smooth={true} duration={1000}>Fundacja i organizacje</Link2>

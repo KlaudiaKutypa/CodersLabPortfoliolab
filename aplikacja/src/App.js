@@ -12,9 +12,9 @@ function App() {
     <Router>
       <HomeHeader />
         <Switch>
-          <Route exact path="/">
+          {/* <Route exact path="/"> */}
             <Home />
-          </Route>
+          {/* </Route> */}
           <Route path="/logowanie">
             <Logging />
           </Route>
